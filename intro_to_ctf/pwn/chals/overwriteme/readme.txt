@@ -1,0 +1,1 @@
+Build and run the docker container. Give the competitors the compiled binary and have them look for the vuln and develop their exploit. This is similar to the demo. Change the peasant mode to admin to print a flag.

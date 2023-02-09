@@ -1,0 +1,1 @@
+Build a docker container with the dockerfile and run it. Port 5000 is exposed for connections. No compiled binary should be given. Competitors connect to the service and try to get a crash to happen. If a crash occurs, the binary will produce a flag.
